@@ -1,0 +1,5 @@
+[mysql_hosts]
+192.168.56.2 mysql_replication_role=master
+192.168.56.3 mysql_replication_role=slave1
+192.168.56.4 mysql_replication_role=slave2
+
